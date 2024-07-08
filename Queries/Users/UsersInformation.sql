@@ -1,0 +1,6 @@
+INSERT INTO Users(first_name,last_name,password,birth_date,phone_number,email)
+VALUES('reza','mohammadi','1234','10/10/2002','09305502134','reza@gmail.com')
+INSERT INTO Users(first_name,last_name,password,birth_date,phone_number,email)
+VALUES('hadi','rezaie','1234','10/10/2003','09305502184','hadi@gmail.com')
+INSERT INTO Users(first_name,last_name,password,birth_date,phone_number,email)
+VALUES('shadi','hajipour','1234','10/10/2002','09335502134','shadi@gmail.com')
